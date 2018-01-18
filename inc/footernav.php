@@ -1,0 +1,1 @@
+<p><a href="<?php echo HOST;?>tos">Terms of Service</a> | Privacy Policy | <a href="http://ohminteractive.com">Ohm Interactive</a></p><p><?php echo COPY;?></p>

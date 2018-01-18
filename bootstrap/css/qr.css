@@ -1,0 +1,48 @@
+@charset "UTF-8";
+/* QR CSS Document */
+.row
+{
+	padding-top:2%;
+	text-align:center;
+}
+input
+{
+	color:#222;
+}
+.lipw
+{
+	text-align:center;
+}
+.instructions
+{
+	font-size:1.8em;
+	margin-left:auto;
+	margin-right:auto;
+	color:#dedede;
+	width:80%;
+}
+.lipw input
+{
+	width:70%;
+	margin-left:auto;
+	margin-right:auto;
+}
+.sname{
+	width:40%;
+}
+.busname
+{
+	width:81%;
+}
+.subrow{
+	padding-top:2%;
+}
+.state{width:10%;}
+.cvv{width:15%;}
+.zip{width:30%;}
+.buff-left{margin-left:8%;}
+.plans{
+	width:81%;
+	color:#333;
+}
+.anno{width:20%;}
